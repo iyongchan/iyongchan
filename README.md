@@ -11,7 +11,8 @@
   
   
   
- 
+ #
+  
  ### :books: **Language**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/JAVA-FF9E0F?style=for-the-badge&logo=JAVA&logoColor=white">
@@ -26,6 +27,7 @@
  
  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 
+  #
 
 ### :computer: **Github Usage**
 
