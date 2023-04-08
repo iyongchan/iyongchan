@@ -27,14 +27,11 @@
   #
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyongchan&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyongchan)](https://github.com/anuraghazra/github-readme-stats)
- 
-  
-  
- ### :tv: **Baekjoon Tier**
- 
- [![Solved.ac
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyongchan&show_icons=true&theme=radical) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongchan11111)](https://solved.ac/yongchan11111)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyongchan)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
  
 </div>
