@@ -29,7 +29,7 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yongchan11111)](https://solved.ac/yongchan11111/)
   
-  ![iyongchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyongchan&show_icons=true&theme=radical)
+ ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyongchan&show_icons=true&theme=tokyonight)
  
  
  
